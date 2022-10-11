@@ -53,6 +53,7 @@ console.log(numbers)
 // ==========================================
 
 const squares = [30, 2, 8, 24, 11];
+// test
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
